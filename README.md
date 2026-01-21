@@ -2,6 +2,7 @@
 
 Welcome to **DormBuddy**—the ultimate Progressive Web App (PWA) designed to transform your student residence experience. Our platform empowers registered university students, residence administrators, cleaning staff, and maintenance personnel with intuitive, efficient tools for managing every aspect of dorm life. Whether you're looking to streamline room assignments or stay up-to-date with announcements, DormBuddy is your one-stop solution! 🚀
 
+---
 
 ## Key Features 🗝️
 
@@ -55,6 +56,7 @@ Welcome to **DormBuddy**—the ultimate Progressive Web App (PWA) designed to tr
 - **Downloadable Convenience:**  
   Easily install DormBuddy as a PWA, offering a native app-like experience on your device.
 
+---
 
 ## Cutting-Edge Technologies & Tools 🛠️
 
@@ -75,5 +77,6 @@ Welcome to **DormBuddy**—the ultimate Progressive Web App (PWA) designed to tr
 - **☁️ AWS:**  
   Securely store and manage room and profile images using Amazon Web Services (AWS).
 
+---
 
 Join the DormBuddy community today and experience a new era of student residence management that’s both efficient and engaging! 🎓✨
